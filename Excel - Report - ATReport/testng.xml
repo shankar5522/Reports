@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite_AT_Report">
+  <test name="TestOne_AT_Report">
+    <classes>
+      <class name="com.at.excel.TestClassOne"/>
+      <class name="com.at.excel.TestClassTwo"/>
+    </classes>
+  </test>
+  <test name="TestTwo_AT_Report">
+    <classes>
+      <class name="com.at.excel.TestClassTwo"/>
+    </classes>
+  </test> 
+</suite>
