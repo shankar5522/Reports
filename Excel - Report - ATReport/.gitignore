@@ -2,5 +2,5 @@
 /.classpath
 /.project
 /test-output/
-/myExtentReport/
-/screenshots/
+myExtentReport/
+screenshots/
